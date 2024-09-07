@@ -1,0 +1,6 @@
+[submodule "goreto-back"]
+	path = goreto-back
+	url = https://github.com/obtusei/goreto-back.git
+[submodule "goreto-front"]
+	path = goreto-front
+	url = https://github.com/obtusei/goreto-front.git
